@@ -1,0 +1,23 @@
+#background{
+    height: 780px;
+    border: 1px solid red;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("https://profecient.jegtheme.com/protailor/wp-content/uploads/sites/23/2024/03/traditional-tailors-shop-interior.webp");
+}
+#div1{
+    height: 100px;
+    border: 1px solid grey;
+    /* background-color: black; */
+}
+#di1
+{
+    width: 20%;
+}
+#di2
+{
+    width: 30%;
+}
+#div4{
+    width: 35%;
+    height: 100%;
+    border: 1px solid black;
+}
